@@ -1,0 +1,870 @@
+[16-May-2023 12:04:54 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:20:21 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:21:27 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:24:01 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:26:44 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:26:58 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:27:04 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:27:11 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:27:20 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:28:46 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[16-May-2023 12:31:20 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[17-May-2023 06:14:18 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[17-May-2023 06:35:17 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:55:11 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:56:20 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:56:24 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:56:29 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:56:33 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:57:47 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 10:57:58 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 11:02:23 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 11:02:25 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 11:02:40 Europe/London] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 117
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Undefined array key "time" in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 10
+[24-May-2023 11:07:25 Europe/London] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 11
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 11:07:25 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 287
+[24-May-2023 11:14:26 Europe/London] PHP Warning:  Undefined array key "time" in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 10
+[24-May-2023 11:14:26 Europe/London] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 11
+[24-May-2023 11:14:26 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:14:26 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:14:26 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:14:26 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:14:26 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:14:26 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:10) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:14:26 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:43:31 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:43:31 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:43:31 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:43:31 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:43:31 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:43:31 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:43:31 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 31 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:43:44 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:43:44 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:43:44 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:43:44 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:43:44 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:43:44 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:43:44 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 18 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:43:54 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:43:54 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:43:54 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:43:54 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:43:54 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:43:54 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:43:54 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 37 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:44:09 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:44:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:44:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:44:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:44:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:44:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:44:09 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 52 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:48:49 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:48:49 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:48:49 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:48:49 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:48:49 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:48:49 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:48:49 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:49:09 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:49:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:49:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:49:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:49:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:49:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:49:09 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:49:30 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:49:30 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:49:30 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:49:30 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:49:30 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:49:30 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:49:30 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:49:40 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:49:40 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:49:40 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:49:40 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:49:40 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:49:40 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:49:40 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 11:50:13 Europe/London] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 11:50:13 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 11:50:13 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 11:50:13 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 11:50:13 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 11:50:13 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 11:50:13 Europe/London] PHP Fatal error:  Uncaught Exception: Image at position 48 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 16:24:12 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 16:49:41 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(79): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 16:51:02 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(79): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 16:51:08 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(79): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 16:51:11 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(79): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 16:51:12 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(79): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 17:05:43 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: date_diff(): Argument #2 ($targetObject) must be of type DateTimeInterface, string given in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:33
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(33): date_diff(Object(DateTime), 'thank uoi')
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 33
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 55
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 85
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 86
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 87
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 88
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 89
+[24-May-2023 17:06:22 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: AnimatedGif::__construct(): Argument #4 ($transparent_colour_red) must be of type int, string given, called in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 90 and defined in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:79
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(90): AnimatedGif->__construct(Array, Array, 1, 'sale end')
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 79
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 55
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 85
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 86
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 87
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 88
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 89
+[24-May-2023 17:06:36 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(90): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[24-May-2023 17:06:49 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[24-May-2023 17:06:53 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:31:37 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:31:43 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:31:49 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 49
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 73
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 74
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:45) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:31:51 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(78): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:48:00 Asia/Calcutta] PHP Warning:  Undefined variable $loops in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 39
+[25-May-2023 10:48:00 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: AnimatedGif::__construct(): Argument #3 ($number_of_loops) must be of type int, null given, called in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 39 and defined in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:79
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(39): AnimatedGif->__construct(Array, Array, NULL)
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 79
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 10:58:02 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 10:58:51 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 10:58:58 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 10:59:09 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 52 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:01:36 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:01:48 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:02:01 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:02:09 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:09:44 Asia/Calcutta] PHP Warning:  Undefined variable $images in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 46
+[25-May-2023 11:09:44 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: imagettftext(): Argument #1 ($image) must be of type GdImage, null given in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(46): imagettftext(NULL, 20, 0, 11, 86, 15842969, 'Futura.ttc', 'Offer end')
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 46
+[25-May-2023 11:10:07 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: imagettftext(): Argument #1 ($image) must be of type GdImage, string given in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:46
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(46): imagettftext('', 20, 0, 11, 86, 15842969, 'Futura.ttc', 'Offer end')
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 46
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:11:29 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:12:12 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 49 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:13:30 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 21 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:20:39 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 11:22:04 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:38 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:39 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:46 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:49 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:50 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:50 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:50 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:50 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:51 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:24:57 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:25:00 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:25:03 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:25:05 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:28:26 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:28:35 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:28:36 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:28:40 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 22 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:28:44 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:29:03 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 59 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:31:55 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 13:32:27 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 15:41:42 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[25-May-2023 17:02:06 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[26-May-2023 10:33:52 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[30-May-2023 10:41:49 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[30-May-2023 10:42:26 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[26-Jul-2023 21:55:44 Asia/Calcutta] PHP Warning:  imagecreatefrompng(): &quot;images/countdown.jpg&quot; is not a valid PNG file in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 19
+[26-Jul-2023 21:55:44 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:29
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(29): imagecolorallocate(false, 0, 0, 0)
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 29
+[27-Jul-2023 10:23:24 Asia/Calcutta] PHP Warning:  imagecreatefrompng(): &quot;images/countdown.jpg&quot; is not a valid PNG file in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 19
+[27-Jul-2023 10:23:24 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:29
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(29): imagecolorallocate(false, 0, 0, 0)
+#1 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 29
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[31-Jul-2023 11:15:58 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[31-Jul-2023 12:32:44 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[31-Jul-2023 16:25:37 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[01-Aug-2023 11:28:05 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 51
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 75
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 76
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 77
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 78
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php:47) in /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php on line 79
+[01-Aug-2023 11:28:35 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: Image at position 0 is not a gif in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php:128
+Stack trace:
+#0 /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php(97): AnimatedGif->buffer_images(Array)
+#1 /home1/iplaymwq/hollywoodmonkeys.com/timer/gif.php(80): AnimatedGif->__construct(Array, Array, 1)
+#2 {main}
+  thrown in /home1/iplaymwq/hollywoodmonkeys.com/timer/GIFEncoder.class.php on line 128
